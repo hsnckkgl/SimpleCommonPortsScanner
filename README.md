@@ -1,3 +1,3 @@
-# SimpleNmapScanner.py
+# SimpleCommonPortScanner.py
 # How to Use:
-## python3 SimpleRecon.py "url" 
+## python3 SimpleCommonPortScanner.py url
