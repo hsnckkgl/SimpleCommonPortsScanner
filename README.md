@@ -1,3 +1,3 @@
-# SimpleCommonPortScanner.py
-# How to Use:
-### ```python3 SimpleCommonPortScanner.py url```
+```git clone https://github.com/hsnckkgl/SimpleCommonPortScanner.py.git```
+```cd SimpleCommonPortScanner.py```
+```python3 SimpleCommonPortScanner.py url```
